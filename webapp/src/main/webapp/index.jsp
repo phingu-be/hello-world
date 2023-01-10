@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Many thanks, Happy Learning - FULL automation Ansible playbook</h1>
+   <h1> Many thanks, Happy Learning - a FULL automation Ansible playbook</h1>
 
   
 </form>
