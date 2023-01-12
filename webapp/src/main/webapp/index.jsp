@@ -34,7 +34,7 @@
   </div>
 
    <h1> Many thanks, Happy Learning - a FULL automation Ansible playbook</h1>
-   <h1> FULL automation Ansible playbook to create image</h1>
+   <h1> FULL automation Ansible playbook to create image on docker</h1>
 
   
 </form>
